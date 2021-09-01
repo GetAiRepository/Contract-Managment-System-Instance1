@@ -34,6 +34,7 @@ Once opened you can run the following option in Microsoft Visual Studio to launc
 - [Role - Finance Approver](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Finance.pdf) Demonstration of using the Contract Managment System as a Finance Approver
 - [Role - Reviewer](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Reviewer.pdf) Demonstration of using the Contract Managment System as a Reiviewer
 - [Role - Admin](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms-approver.pdf) Demonstration of using the Contract Managment System as an Admin
+- [Video Tutorials](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/tree/main/Examples/Video_Instructions) Sample Video instructions on how to use the application
 
 ## Support
 
