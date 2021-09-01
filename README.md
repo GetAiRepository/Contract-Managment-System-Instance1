@@ -1,5 +1,5 @@
 
-# Contract Management System Instance
+# Contract Management System Instance1
 [![GitHub license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://raw.githubusercontent.com/tesseract-ocr/tesseract/master/LICENSE)
 
 ![screenshot](./imgs/cms.PNG)
@@ -28,11 +28,11 @@ Once opened you can run the following option in Microsoft Visual Studio to launc
 
 ## How To Use
 
-- [Role - Initiator](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms%20Initiator.pdf) Demonstration of using the Contract Managment System as an Initiator
-- [Role - Approver](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms-approver.pdf) Demonstration of using the Contract Managment System as an Approver
-- [Role - Legal](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms%20Legal.pdf) Demonstration of using the Contract Managment System as Legal
-- [Role - Finance Approver](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms%20Finance%201%20.pdf) Demonstration of using the Contract Managment System as a Finance Approver
-- [Role - Finance Reviewer](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms%20Finance%202.pdf) Demonstration of using the Contract Managment System as a Finance Reiviewer
+- [Role - Initiator](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Initiator.pdf) Demonstration of using the Contract Managment System as an Initiator
+- [Role - Approver](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Approver.pdf) Demonstration of using the Contract Managment System as an Approver
+- [Role - Legal](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Legal.pdf) Demonstration of using the Contract Managment System as Legal
+- [Role - Finance Approver](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Finance.pdf) Demonstration of using the Contract Managment System as a Finance Approver
+- [Role - Reviewer](https://github.com/GetAiRepository/Contract-Managment-System-Instance1/blob/main/Examples/Reviewer.pdf) Demonstration of using the Contract Managment System as a Reiviewer
 - [Role - Admin](https://github.com/GetAiRepository/Contract-Managment-System/blob/main/Examples/cms-approver.pdf) Demonstration of using the Contract Managment System as an Admin
 
 ## Support
